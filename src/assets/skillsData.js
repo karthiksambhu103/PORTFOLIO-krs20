@@ -23,24 +23,10 @@ export const skillList = [
         skillName: 'Express JS',
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'
     },
-    {
-        skillName: 'Python',
-        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg',
-    },
-    {
-        skillName: 'C',
-        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg',
-    },
-    {
-        skillName: 'C++',
-        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg',
-    },
+
     {
         skillName: 'Java',
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg',
     },
-    {
-        skillName: 'Dart',
-        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg',
-    },
+   
 ];
